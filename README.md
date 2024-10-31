@@ -2,7 +2,7 @@
 
 **Author:** Aur Marina Iuliana  
 **Student ID:** 1809715  
-**Course:** Deep Learning and Applied AI (DLAI)
+**Course:** Deep Learning and Applied AI (DLAI)  
 **Project Title**: Fine-Tuning a LLM on Neapolitan Dialect
 
 ## Project Overview
