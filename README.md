@@ -20,3 +20,7 @@ The selected model `Llama-3.2-1B` is a Large Language Model (LLM) designed for m
  - `Fine_Tuning.ipynb`: the jupyter notebook used for Fine-Tuning `Llama-3.2-1B` Model.
  - `Performance_Evaluation.ipynb`: the jupyter notebook used for Evaluating Model Performance using metrics like Perplexity, BLEU score, ROUGE score and BERT score.
  - `report.pdf`: the final report summarizing the project findings.
+
+## Code Instructions
+
+The Jupyter Notebooks was run on Google Colab using Tesla T4 GPU. The dataset and the Fine-Tuned Model configuration were uploaded on Google Drive to make them accessible in the notebook.
