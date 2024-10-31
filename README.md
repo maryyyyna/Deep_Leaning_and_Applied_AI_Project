@@ -23,4 +23,4 @@ The selected model `Llama-3.2-1B` is a Large Language Model (LLM) designed for m
 
 ## Code Instructions
 
-The Jupyter Notebooks was run on Google Colab using Tesla T4 GPU. The dataset and the Fine-Tuned Model configuration were uploaded on Google Drive to make them accessible in the notebook.
+The Jupyter Notebooks was run on Google Colab using Tesla T4 GPU. The dataset and the Fine-Tuned Model configuration were uploaded on Google Drive to make them accessible in the Notebooks.
