@@ -12,7 +12,7 @@ The project focuses on **fine-tuning a Large Language Model (LLM)** to enhance i
 The dataset used is the **Identification of Languages and Dialects of Italy (ITDI)** from [VarDial 2022](https://sites.google.com/view/vardial-2022/shared-tasks#h.x0q0staz3tdr), which provides a comprehensive collection of text samples across multiple Italian dialects.
 
 ## Model
-The selected model, `Llama-3.2-1B`, is a large language model (LLM) designed for multilingual contexts, making it suitable for applications that require understanding and generating text in multiple languages.
+The selected model `Llama-3.2-1B` is a Large Language Model (LLM) designed for multilingual contexts, making it suitable for applications that require understanding and generating text in multiple languages.
 
 ## Repository Strcture
  - ### `data`: A folder containing the dataset and related files.
