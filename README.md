@@ -18,5 +18,5 @@ The selected model `Llama-3.2-1B` is a Large Language Model (LLM) designed for m
  - `fine_tuned_LLM_model`: the folder containing the Fine-Tuned `Llama-3.2-1B` Model and its configuration.
  - `Data_Analysis.ipynb`: the jupyter notebook used for the Exploratory Data Analysis (EDA).
  - `Fine_Tuning.ipynb`: the jupyter notebook used for Fine-Tuning `Llama-3.2-1B` Model.
- - `Performance_Evaluation.ipynb`: the jupyter notebook used for evaluating model performance using metrics like Perplexity, BLEU score, ROUGE score and BERT score.
+ - `Performance_Evaluation.ipynb`: the jupyter notebook used for Evaluating Model Performance using metrics like Perplexity, BLEU score, ROUGE score and BERT score.
  - `report.pdf`: the final report summarizing the project findings.
