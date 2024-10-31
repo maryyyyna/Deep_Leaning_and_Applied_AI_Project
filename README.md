@@ -14,9 +14,9 @@ The dataset used is the **Identification of Languages and Dialects of Italy (ITD
 The selected model `Llama-3.2-1B` is a Large Language Model (LLM) designed for multilingual contexts, making it suitable for applications that require understanding and generating text in multiple languages.
 
 ## Repository Strcture
- - ### `data`: A folder containing the dataset and related files.
- - ### `fine_tuned_LLM_model`: A folder containing the Fine-Tuned model and its configuration.
- - ### `Data_Analysis.ipynb`: Jupyter notebook for Exploratory Data Analysis (EDA).
- - ### `Fine_Tuning.ipynb`: Jupyter notebook for Fine-Tuning `Llama-3.2-1B` Model.
- - ### `Performance_Evaluation.ipynb`: Jupyter notebook for evaluating model performance using metrics like Perplexity, BLEU score, ROUGE score and BERT score.
- - ### `report.pdf`: A Final report summarizing the project findings.
+ - `data`: A folder containing the dataset and related files.
+ - `fine_tuned_LLM_model`: A folder containing the Fine-Tuned model and its configuration.
+ - `Data_Analysis.ipynb`: Jupyter notebook for Exploratory Data Analysis (EDA).
+ - `Fine_Tuning.ipynb`: Jupyter notebook for Fine-Tuning `Llama-3.2-1B` Model.
+ - `Performance_Evaluation.ipynb`: Jupyter notebook for evaluating model performance using metrics like Perplexity, BLEU score, ROUGE score and BERT score.
+ - `report.pdf`: A Final report summarizing the project findings.
