@@ -1,7 +1,9 @@
 # Deep_Leaning_and_Applied_AI_Project
 
 **Project Title**: *Fine-Tuning a Large Language Model (LLM) for Italian-to-Neapolitan Dialect Translation*
+
 **Author:** Aur Marina Iuliana  
+
 **Student ID:** 1809715  
 
 ## Project Overview
