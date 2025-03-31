@@ -1,6 +1,6 @@
 # Deep_Leaning_and_Applied_AI_Project
 
-**Project Title**: *Fine-Tuning a Large Language Model (LLM) for Italian-to-Neapolitan Dialect Translation*
+**Project Title**: *Fine-Tuning a Large Language Model (LLM) for Neapolitan Dialect*
 
 **Author:** Aur Marina Iuliana  
 
